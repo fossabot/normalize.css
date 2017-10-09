@@ -1,4 +1,6 @@
 # normalize.css v3
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fnormalize.css.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fnormalize.css?ref=badge_shield)
+
 
 Normalize.css is a customisable CSS file that makes browsers render all
 elements more consistently and in line with modern standards.
@@ -88,3 +90,7 @@ Please read the CONTRIBUTING.md
 
 Normalize.css is a project by [Nicolas Gallagher](https://github.com/necolas),
 co-created with [Jonathan Neal](https://github.com/jonathantneal).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fnormalize.css.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fnormalize.css?ref=badge_large)
